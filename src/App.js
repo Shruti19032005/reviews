@@ -26,10 +26,7 @@ function App() {
                 </div>
             </div>
 
-            {/* New Image Section */}
-            <div className="image-section">
-                <img src="/path/to/your/image.jpg" alt="Description of image" />
-            </div>
+          
 
             <footer>
                 <p>© 2024 Review App | All rights reserved</p>
